@@ -1,0 +1,28 @@
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Brainiac Challenge</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+
+    <string name="test_taker_name">  Name: <xliff:g example="Cris" id=" name">%s</xliff:g></string>
+
+    <!-- The questions of the quiz -->
+
+    <string name="question1">No.1: How much Force Power can yoda generate?</string>
+
+
+    <string name="question2">No.2: What is the best strategy of cooperation?</string>
+
+
+    <string name="question3">No.3: If my DNA suddenly vanished, how much weight would I lose?</string>
+
+
+    <string name="question4">No.4: How many SAT perfect score would there be with everybody guessing</string>
+
+
+    <string name="question5">No.5: Minimum races to take to determine the top 3 out of 25 horses?</string>
+
+
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">SD Tour Guide</string>
+    <string name="ht_cy">Courtyard by Marriott</string>
+    <string name="ht_eh">Express Hotel</string>
+    <string name="ht_grande">Grande Colonial Village</string>
+    <string name="ht_homewood_airport">Homewood Suites San Diego Airport</string>
+    <string name="ht_sheraton">Sheraton La Jolla Hotel</string>
+    <string name="ht_omni">Omni San Diego Hotel</string>
+    <string name="ht_inn_by_sea">Inn by the Sea</string>
+    <string name="ht_homewood_mission">Homewood Suites San Diego Mission Valley</string>
+    <string name="ht_z">Hotel Z-A Staypineapple</string>
+    <string name="ht_tower">Tower23 Hotel</string>
+    <string name="at_balboa">Balboa Park</string>
+    <string name="at_gaslamp">Gaslamp Quarter</string>
+    <string name="at_aircraft">Midway Aircraft Carrier Museum</string>
+    <string name="at_mission">Mission Basilica San Diego de Alcala</string>
+    <string name="at_museum">San Diego Museum of Art</string>
+    <string name="at_oldtown">Old Town Sate Historic Park</string>
+    <string name="at_loma">Point Loma and Cabrillo National Monument</string>
+    <string name="at_seaport_village">Seaport Village</string>
+    <string name="at_seaworld">SeaWorld</string>
+    <string name="at_zoo">San Diego Zoo</string>
+    <string name="at_mission_beach">Mission Beach</string>
+    <string name="at_sunset">Sunset Cliffs Natural Park</string>
+    <string name="rt_truluck"> Truluck\'s Seafood</string>
+    <string name="rt_ar">A.R Valentin</string>
+    <string name="rt_eddie">Eddie V\'s Prime </string>
+    <string name="rt_juniper">Juniper and IVY</string>
+    <string name="rt_marine">Marine Room</string>
+    <string name="rt_island">Island Prime Restaurant</string>
+    <string name="rt_george">George\'s at the Cove</string>
+    <string name="rt_tom">Top of the Market</string>
+    <string name="rt_herb">Herb and Wood</string>
+    <string name="rt_ocean">The Oceanaire Seafood</string>
+    <string name="cp_bam">Bam Communications</string>
+    <string name="cp_consortium">Consortium Holding</string>
+    <string name="cp_gopro">GoPro</string>
+    <string name="cp_fuse">Fuse Integration</string>
+    <string name="cp_honest">Honest Kitchen</string>
+    <string name="cp_illumina">Illumina</string>
+    <string name="cp_j">J Public Relations</string>
+    <string name="cp_lpw">IPW Group</string>
+    <string name="cp_sempra">Sempra Energy</string>
+    <string name="cp_underground">Underground Elephant</string>
+    <string name="category_Attraction">Attraction</string>
+    <string name="category_Hotel">Hotel</string>
+    <string name="category_Company">Company</string>
+    <string name="category_Restaurant">Restaurant</string>
+
+
+</resources>
